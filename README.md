@@ -62,7 +62,7 @@
     > - Journal of Intelligent and Fuzzy Systems (SCIE) (2019) (Proceeding revision)
     
   * Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography
-    > - Sensors and Materials (SCIE) (2020) (Submission)
+    > - Sensors and Materials (SCIE) (2020) (Proceeding revision)
     
   * Sentence Similarity Estimation using Global and Local Features - Empirical Methods in Natural Language Processing
     > - EMNLP (2020) (Submission)
