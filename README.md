@@ -64,9 +64,6 @@
   * Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography
     > - Sensors and Materials (SCIE) (2020) (Proceeding revision)
     
-  * Sentence Similarity Estimation using Global and Local Features - Empirical Methods in Natural Language Processing
-    > - EMNLP (2020) (Submission)
-    
   * Various Levels of Representation for Predicting Stroke Prognosis using Text Records of Magnetic Resonance Imaging
     > - 3nd Clinical Natural Language Processing Workshop (2020) (Submission)
     
