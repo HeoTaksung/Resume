@@ -65,5 +65,5 @@
     > - Sensors and Materials (SCIE) (2020) (Proceeding revision)
     
   * Various Levels of Representation for Predicting Stroke Prognosis using Text Records of Magnetic Resonance Imaging
-    > - 3nd Clinical Natural Language Processing Workshop (2020) (Submission)
+    > - 3nd Clinical Natural Language Processing Workshop [2020 EMNLP Workshop] (2020) (Proceeding revision)
     
