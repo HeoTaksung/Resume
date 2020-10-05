@@ -12,7 +12,7 @@
 
 ## 관심 분야
 
-  * Natural Natural Language Processing
+  * Natural Language Processing
   
   * Biomedical Natural Language Processing
   
