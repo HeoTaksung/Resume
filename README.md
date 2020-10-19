@@ -52,14 +52,17 @@
    
 * ### Development of Conversational Skills
 
-  * [합성곱 신경망 모델과 극단 모델에 기반한 발화자 연령 예측](https://www.koreascience.or.kr/article/CFKO201832073079012.page)
-     > - 한글 및 한국어 정보처리 학술대회논문집 (2018)
-
   * Sent2Vec을 이용한 아동 발화의 화제 변화 디텍팅
      > - 한글 및 한국어 정보처리 학술대회논문집 (2019) [[Code]](https://github.com/HeoTaksung/Detection-of-Topic-Changes-in-Child-Speech-Using-Sent2Vec)
     
   * [LDA와 선호도 전파 알고리즘을 이용한 아동 발화의 화제수 측정](http://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09301947&mark=0&bookmarkCnt=1&ipRange=N&language=ko_KR)
      > - 한국정보과학회 학술발표논문집 (2019) [[Code]](https://github.com/HeoTaksung/Topic_Modeling)
+
+  * [합성곱 신경망 모델과 극단 모델에 기반한 발화자 연령 예측](https://www.koreascience.or.kr/article/CFKO201832073079012.page)
+     > - 한글 및 한국어 정보처리 학술대회논문집 (2018)
+     
+  * [연령별 한국어 발화 자동 분석 서비스](https://www.semanticscholar.org/paper/Automatic-Analysis-Service-for-Korean-Speaking-by-Choi-Oh/3106fbc773ee5cfe5d587d8350a482b59f0c8bae?p2df)
+     > - 한글 및 한국어 정보처리 학술대회논문집 (2018)
 
 * ### Submission & Proceeding Paper
 
