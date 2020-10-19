@@ -35,7 +35,7 @@
 * ### Clinical NLP
 
   * Various Levels of Representation for Predicting Stroke Prognosis using Text Records of Magnetic Resonance Imaging
-    > - 3nd Clinical Natural Language Processing Workshop (EMNLP) (2020)
+    > - 3rd Clinical Natural Language Processing Workshop (EMNLP) (2020)
 
 * ### Machine Translation
 
