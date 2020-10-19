@@ -32,6 +32,11 @@
 
 ## 논문
 
+* ### Clinical NLP
+
+  * Various Levels of Representation for Predicting Stroke Prognosis using Text Records of Magnetic Resonance Imaging
+    > - 3nd Clinical Natural Language Processing Workshop (EMNLP) (2020)
+
 * ### Machine Translation
 
   * [번역자동평가에서 풀리지 않은 과제](http://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09320505&mark=0&bookmarkCnt=0&ipRange=N&language=ko_KR)
@@ -63,7 +68,4 @@
     
   * Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography
     > - Sensors and Materials (SCIE) (2020) (Proceeding revision)
-    
-  * Various Levels of Representation for Predicting Stroke Prognosis using Text Records of Magnetic Resonance Imaging
-    > - 3nd Clinical Natural Language Processing Workshop [2020 EMNLP Workshop] (2020) (Proceeding revision)
     
