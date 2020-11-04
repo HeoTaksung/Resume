@@ -66,9 +66,12 @@
 
 * ### Submission & Proceeding Paper
 
+  * Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography
+    > - Sensors and Materials (SCIE) (2020) (Accepted for publication)
+    
   * Sentence Similarity Evaluation using Sent2Vec and Siamese Neural Network with Parallel Structure
     > - Journal of Intelligent and Fuzzy Systems (SCIE) (2019) (Proceeding revision)
-    
-  * Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography
-    > - Sensors and Materials (SCIE) (2020) (Proceeding revision)
+  
+  * Global and Local Information Adjustment for Semantic Similarity Evaluation
+    > - Applied Sciences (SCIE) (2020) (Submission)
     
