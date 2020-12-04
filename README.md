@@ -70,7 +70,7 @@
     > - Sensors and Materials (SCIE) (2020) (Accepted for publication)
     
   * Sentence Similarity Evaluation using Sent2Vec and Siamese Neural Network with Parallel Structure
-    > - Journal of Intelligent and Fuzzy Systems (SCIE) (2019) (Proceeding revision)
+    > - Journal of Intelligent and Fuzzy Systems (SCIE) (2019) (Accepted for publication)
   
   * Global and Local Information Adjustment for Semantic Similarity Evaluation
     > - Applied Sciences (SCIE) (2020) (Submission)
