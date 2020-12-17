@@ -30,7 +30,7 @@
   
 --------------------------------------------------
 
-## 논문
+## 저널 및 학술대회
 
 * ### Clinical NLP
 
@@ -44,6 +44,14 @@
 
   * [번역자동평가에서 풀리지 않은 과제](http://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09320505&mark=0&bookmarkCnt=0&ipRange=N&language=ko_KR)
     > - 번역학연구 (KCI) (2020)
+    
+* ### Post-Editing
+
+  * 음절과 형태소 정보를 이용한 한국어 문장 띄어쓰기 교정 모델
+    > - 한글 및 한국어 정보처리 학술대회논문집 (2020)
+    
+  * 한국어 음성인식 후처리를 위한 주의집중 기반의 멀티모달 모델
+    > - 한글 및 한국어 정보처리 학술대회논문집 (2020)
 
 * ### Sentiment Analysis
 
@@ -69,8 +77,11 @@
 
 * ### Submission & Proceeding Paper
 
-  * Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography
+  * [Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography](https://myukk.org/SM2017/article.php?ss=3023)
     > - Sensors and Materials (SCIE) (2020) (Accepted for publication)
+    
+  * Deep learning based prediction of prognosis in nonmetastatic clear cell renal cell carcinoma
+    > - Scientific Reports (SCIE) (2020) (Accepted for publication)
     
   * Sentence Similarity Evaluation using Sent2Vec and Siamese Neural Network with Parallel Structure
     > - Journal of Intelligent and Fuzzy Systems (SCIE) (2019) (Accepted for publication)
