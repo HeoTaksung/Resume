@@ -36,6 +36,9 @@
 
   * [Various Levels of Representation for Predicting Stroke Prognosis using Text Records of Magnetic Resonance Imaging](https://www.aclweb.org/anthology/2020.clinicalnlp-1.1/)
     > - 3rd Clinical Natural Language Processing Workshop (EMNLP) (2020)
+  
+  * [Prediction of Stroke Outcome Using Natural Language Processing-Based Machine Learning of Radiology Report of Brain MRI](https://doi.org/10.3390/jpm10040286)
+    > - Journal of Personalized Medicine (SCIE) (2020)
 
 * ### Machine Translation
 
