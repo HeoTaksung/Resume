@@ -45,6 +45,11 @@
   * [번역자동평가에서 풀리지 않은 과제](http://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09320505&mark=0&bookmarkCnt=0&ipRange=N&language=ko_KR)
     > - 번역학연구 (KCI) (2020)
     
+* ### Sentence Similarity
+
+  * [Sentence Similarity Evaluation using Sent2Vec and Siamese Neural Network with Parallel Structure](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs189593)
+    > - Journal of Intelligent and Fuzzy Systems (SCIE) (2020)
+    
 * ### Post-Editing
 
   * 음절과 형태소 정보를 이용한 한국어 문장 띄어쓰기 교정 모델
@@ -83,9 +88,6 @@
   * Deep learning based prediction of prognosis in nonmetastatic clear cell renal cell carcinoma
     > - Scientific Reports (SCIE) (2020) (Accepted for publication)
     
-  * Sentence Similarity Evaluation using Sent2Vec and Siamese Neural Network with Parallel Structure
-    > - Journal of Intelligent and Fuzzy Systems (SCIE) (2019) (Accepted for publication)
-  
   * Global and Local Information Adjustment for Semantic Similarity Evaluation
     > - Applied Sciences (SCIE) (2020) (Submission)
     
