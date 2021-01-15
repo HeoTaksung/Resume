@@ -39,6 +39,9 @@
   
   * [Prediction of Stroke Outcome Using Natural Language Processing-Based Machine Learning of Radiology Report of Brain MRI](https://doi.org/10.3390/jpm10040286)
     > - Journal of Personalized Medicine (SCIE) (2020)
+    
+  * [Deep learning based prediction of prognosis in nonmetastatic clear cell renal cell carcinoma](https://www.nature.com/articles/s41598-020-80262-9)
+    > - Scientific Reports (SCIE) (2021)
 
 * ### Machine Translation
 
@@ -84,9 +87,6 @@
 
   * [Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography](https://myukk.org/SM2017/article.php?ss=3023)
     > - Sensors and Materials (SCIE) (2020) (Accepted for publication)
-    
-  * Deep learning based prediction of prognosis in nonmetastatic clear cell renal cell carcinoma
-    > - Scientific Reports (SCIE) (2020) (Accepted for publication)
     
   * Global and Local Information Adjustment for Semantic Similarity Evaluation
     > - Applied Sciences (SCIE) (2020) (Submission)
