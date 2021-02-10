@@ -90,4 +90,7 @@
     
   * Global and Local Information Adjustment for Semantic Similarity Evaluation
     > - Applied Sciences (SCIE) (2020) (Submission)
-    
+   
+   
+[![HitCount](http://hits.dwyl.com/HeoTaksung/Resume.svg)](http://hits.dwyl.com/HeoTaksung/Resume)
+
