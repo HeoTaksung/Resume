@@ -38,13 +38,13 @@
     > - 3rd Clinical Natural Language Processing Workshop (EMNLP) (2020)
   
   * [Prediction of Stroke Outcome Using Natural Language Processing-Based Machine Learning of Radiology Report of Brain MRI](https://doi.org/10.3390/jpm10040286)
-    > - Journal of Personalized Medicine (SCIE) (2020)
+    > - Journal of Personalized Medicine (SCIE) (2020) `IF-4.433`
   
   * [Prediction of Atrial Fibrillation Cases: Convolutional Neural Networks using the Output Texts of Electrocardiography](https://myukk.org/SM2017/article.php?ss=3023)
-    > - Sensors and Materials (SCIE) (2020)
+    > - Sensors and Materials (SCIE) (2020) `IF-0.560`
     
   * [Deep learning based prediction of prognosis in nonmetastatic clear cell renal cell carcinoma](https://www.nature.com/articles/s41598-020-80262-9)
-    > - Scientific Reports (SCIE) (2021)
+    > - Scientific Reports (SCIE) (2021) `IF-3.998`
 
 * ### Machine Translation
 
@@ -54,7 +54,7 @@
 * ### Sentence Similarity
 
   * [Sentence Similarity Evaluation using Sent2Vec and Siamese Neural Network with Parallel Structure](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs189593)
-    > - Journal of Intelligent and Fuzzy Systems (SCIE) (2020)
+    > - Journal of Intelligent and Fuzzy Systems (SCIE) (2021) `IF-1.851`
     
 * ### Post-Editing
 
@@ -89,7 +89,7 @@
 * ### Submission & Proceeding Paper
     
   * Global and Local Information Adjustment for Semantic Similarity Evaluation
-    > - Applied Sciences (SCIE) (2020) (Submission)
+    > - Applied Sciences (SCIE) (2020) (Revision)
    
    
 [![HitCount](http://hits.dwyl.com/HeoTaksung/Resume.svg)](http://hits.dwyl.com/HeoTaksung/Resume)
