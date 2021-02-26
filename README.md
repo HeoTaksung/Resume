@@ -89,7 +89,7 @@
 * ### Submission & Proceeding Paper
     
   * Global and Local Information Adjustment for Semantic Similarity Evaluation
-    > - Applied Sciences (SCIE) (2020) (Revision)
+    > - Applied Sciences (SCIE) (2020) (accepted paper) `IF-2.474`
    
    
 [![HitCount](http://hits.dwyl.com/HeoTaksung/Resume.svg)](http://hits.dwyl.com/HeoTaksung/Resume)
