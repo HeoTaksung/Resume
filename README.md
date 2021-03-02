@@ -89,7 +89,6 @@
   * [연령별 한국어 발화 자동 분석 서비스](https://www.semanticscholar.org/paper/Automatic-Analysis-Service-for-Korean-Speaking-by-Choi-Oh/3106fbc773ee5cfe5d587d8350a482b59f0c8bae?p2df)
      > - 한글 및 한국어 정보처리 학술대회논문집 (2018)
 
-* ### Submission & Proceeding Paper
     
   
    
