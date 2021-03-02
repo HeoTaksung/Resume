@@ -53,6 +53,9 @@
     
 * ### Sentence Similarity
 
+  * [Global and Local Information Adjustment for Semantic Similarity Evaluation](https://doi.org/10.3390/app11052161)
+    > - Applied Sciences (SCIE) (2020) `IF-2.474`
+
   * [Sentence Similarity Evaluation using Sent2Vec and Siamese Neural Network with Parallel Structure](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs189593)
     > - Journal of Intelligent and Fuzzy Systems (SCIE) (2021) `IF-1.851`
     
@@ -88,8 +91,7 @@
 
 * ### Submission & Proceeding Paper
     
-  * Global and Local Information Adjustment for Semantic Similarity Evaluation
-    > - Applied Sciences (SCIE) (2020) (accepted paper) `IF-2.474`
+  
    
    
 [![HitCount](http://hits.dwyl.com/HeoTaksung/Resume.svg)](http://hits.dwyl.com/HeoTaksung/Resume)
